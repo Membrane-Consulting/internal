@@ -1,0 +1,19 @@
+{
+  "name": "internal",
+  "version": "0.0.1",
+  "description": "Membrane's Internal Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Membrane-Consulting/internal.git"
+  },
+  "author": "Jacob Stordahl",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Membrane-Consulting/internal/issues"
+  },
+  "homepage": "https://github.com/Membrane-Consulting/internal#readme"
+}
